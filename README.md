@@ -13,5 +13,5 @@ A script for downloading arXiv preprints as PDFs
 * [Matt Kukla](https://matt-kukla.github.io) (<matt.kukla@yandex.ru>)
 
 ## License
-This project is licensed under the GNU GPL v3 - see [LICENSE](LICENSE)
-for details.
+Licensed under the GNU GPL v3 - see [LICENSE](LICENSE)
+for details.  This project is in no way affiliated with [arXiv.org](https://arxiv.org/) or Cornell University.
