@@ -5,9 +5,9 @@ A shell script for downloading arXiv preprints as PDFs
 * ```curl```
 
 ## Usage
-```arxpdf [arXiv id]...``` to download a PDF of [arXiV id]
+```arxpdf [arXiv id]...``` to download a PDF of [arXiv id]
 
-```arxpdf [arXiv id]vn...``` to download the nth version of [arXiV id]
+```arxpdf [arXiv id]vn...``` to download the nth version of [arXiv id]
 
 ## Authors
 * [Matt Kukla](https://matt-kukla.github.io) (<matt.kukla@yandex.ru>)
