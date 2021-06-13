@@ -1,5 +1,5 @@
 # arxpdf
-A shell script for downloading arXiv preprints as PDFs
+A shell script for downloading arXiv preprints as PDFs.
 
 ## Prerequisites
 * ```curl```
